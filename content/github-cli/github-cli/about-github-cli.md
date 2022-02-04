@@ -1,3 +1,4 @@
+[Safari - 19 בנוב׳ 2021, 8:14.pdf](https://github.com/github/docs/files/8000931/Safari.-.19.2021.8.14.pdf)
 ---
 title: About GitHub CLI
 intro: '{% data reusables.cli.cli-intro %}'
